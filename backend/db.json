@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teclado rgb",
+      "price": 122.45
+    },
+    {
+      "id": 2,
+      "name": "mouse rgb",
+      "price": 79.99
+    },
+    {
+      "id": 3,
+      "name": "notebook acer i5",
+      "price": "3500"
+    },
+    {
+      "name": "coxinha",
+      "price": "3.50",
+      "id": 4
+    }
+  ]
+}
